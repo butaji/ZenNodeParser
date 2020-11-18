@@ -1,0 +1,17 @@
+{
+  "name": "zennodeparser",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "date.js": "^0.3.3",
+    "feed": "^4.2.1",
+    "node-fetch": "^2.6.1",
+    "xmldom": "^0.4.0",
+    "xpath": "0.0.32"
+  },
+  "devDependencies": {}
+}
